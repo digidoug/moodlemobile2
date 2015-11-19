@@ -53,7 +53,7 @@ angular.module('mm.core.login', [])
         templateUrl: 'core/components/login/templates/site.html',
         controller: 'mmLoginSiteCtrl',
 	onEnter: function($state) {
-	    $state.go('mm_login.credentials', {siteurl: 'https://moodle.fsd38.ab.ca/LMS'});
+	    $state.go('mm_login.credentials', {siteurl: 'https://thehub.fsd38.ab.ca'});
 	}
 	
     })
