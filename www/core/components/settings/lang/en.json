@@ -1,6 +1,6 @@
 {
     "about": "About",
-    "appname": "Moodle Mobile {{version}}",
+    "appname": "The Hub {{2.6.0}}",
     "appready": "App ready",
     "cacheexpirationtime": "Cache expiration time (miliseconds)",
     "cordovadevicemodel": "Cordova Device model",

@@ -3,8 +3,8 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.fsd38.thehub"
-        versionCode = "384"
-        version   = "1.10">
+        versionCode = "385"
+        version   = "2.6.0">
     <name>The Hub</name>
 
     <description>
